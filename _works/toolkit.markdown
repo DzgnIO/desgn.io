@@ -3,7 +3,7 @@ layout: post-toolkit
 title:  "Toolkit"
 thumbnail: toolkit.png
 date:   2016-01-10
-tag: project
+tag: project toolkit
 ---
 
 <div class="body-content">
