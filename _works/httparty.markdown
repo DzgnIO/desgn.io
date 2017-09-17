@@ -11,6 +11,8 @@ The goal of this workshop / lecture series is to build an understanding for UI/U
 
 Check out the <a href="https://docs.google.com/presentation/d/1gYYUDVne9fSFA9L4z--hS_iLpKbf8qvyjNQ1hTs4viU/edit?usp=sharing" target="_blank">slides</a> from the presentations.
 
+For code samples and excercises please visit the GitHub [repo](https://github.com/DzgnIO/HTTParty)
+
 ## Resources
 * <a href="http://www.underconsideration.com/brandnew/" target="_blank"> Brand New (Brand Audits)</a>
 * <a href="https://www.awwwards.com" target="_blank">Awwwards</a>
