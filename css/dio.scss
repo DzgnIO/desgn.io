@@ -322,21 +322,37 @@ h1 a.social {
   background-color: #d74955;
 }
 
+
+figure.highlight{
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+// Syntax Highlight Styling
 .highlight{
   border-radius: 5px;
   pre{
     padding: 20px;
     border-radius: 5px;
+    border: none;
+    color: #f8f8f2;
+//    white-space: pre-wrap;
     code{
       background-color: transparent;
       border: 0;
+      pre{
+        padding: 0px;
+        padding-left: 20px;
+      }
     }
+    .lineno{
+      padding: 0px;
+      color: #aaaaaa;
+    }
+//    td{
+//      vertical-align: top;
+//    }
   }
-}
-
-figure.highlight{
-    margin: 0;
-    margin-bottom: 20px;
 }
 //End of content Pages
 
