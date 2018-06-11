@@ -7,4 +7,5 @@ personal-site: http://rehanbutt.com
 role: Co-Founder | Colorist
 date: 2015-10-2
 ---
-Rehan is a masters student at Carnegie Mellon University studying Tangible Interaction Design, a degree with the intention to bring together his passions in design 🎨 and technology.💻 Rehan loves to travel ✈️, and has been fortunate enough to live all over the world 🌏. Trying everyday to bring the unique aspects of each culture into his work. In his free time, he enjoys photography 📷 and creating cute digital illustrations.🐧
+
+I’m a Carnegie Mellon University graduate with integrated degrees that bring together my passions in design 🎨 and technology 💻. I have had the privilege to work with some amazing organizations like the NBA and NFL helping them design awesome project. I love to travel ✈️, and have been fortunate enough to live all over the world 🌏. Trying every day to bring the unique aspects of each culture into my work. In my free time, I enjoy photography 📷 and creating cute digital illustrations. 🐧
