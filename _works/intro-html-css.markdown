@@ -14,7 +14,7 @@ tag: tutorial
 * Knowing how to effectively share it in a manner that others can understand sets you apart
 
 
-![ARPANET September 1971](/img/intro-html-css/arpanet.png)
+![ARPANET September 1971](/assets/img/intro-html-css/arpanet.png)
 Source: [California State University](http://som.csudh.edu/fac/lpress/history/arpamaps/f8sep1971.jpg)
 
 
@@ -25,7 +25,7 @@ Source: [California State University](http://som.csudh.edu/fac/lpress/history/ar
 * Pages were written in basic HTML with little to no styling
 * Companies were the sole content creators
 
-![Apple.com 1996](/img/intro-html-css/apple.jpg){: style="width=100%;" }
+![Apple.com 1996](/assets/img/intro-html-css/apple.jpg){: style="width=100%;" }
 
 Source: [Telegraph](http://www.telegraph.co.uk/technology/6125914/How-20-popular-websites-looked-when-they-launched.html)
 
@@ -36,7 +36,7 @@ Source: [Telegraph](http://www.telegraph.co.uk/technology/6125914/How-20-popular
 * **Multimedia Focus**: Facebook, Twitter YouTube
 * **Far greater number of content creators**: anyone with a computer
 
-![Apple.com 2017](/img/intro-html-css/apple-today.png)
+![Apple.com 2017](/assets/img/intro-html-css/apple-today.png)
 
 ### A Couple Other Things
 [Brief History of the Web](https://webdesign.tutsplus.com/articles/a-brief-history-of-the-world-wide-web--webdesign-8710)
@@ -60,7 +60,7 @@ try hacking these sites:
     <strong>HTML</strong> <br>
     HyperText Markup Language
     <br><br>
-    <img src="../img/intro-html-css/structure.png">
+    <img src="/assets/img/intro-html-css/structure.png">
     <br><br>
     <strong>Structure</strong>
   </div>
@@ -68,7 +68,7 @@ try hacking these sites:
     <strong>CSS</strong> <br>
     Cascading Style Sheet
     <br><br>
-    <img src="../img/intro-html-css/style.png">
+    <img src="/assets/img/intro-html-css/style.png">
     <br><br>
     <strong>Styling</strong>
   </div>
@@ -76,14 +76,14 @@ try hacking these sites:
     <strong>JS</strong> <br>
     JavaScript
     <br><br>
-    <img src="../img/intro-html-css/interaction.gif">
+    <img src="/assets/img/intro-html-css/interaction.gif">
     <br><br>
     <strong>Interaction</strong>
   </div>
 </div>
 
 ### HTML
-HTML (HyperText Markup Language) is the most basic building block of the Web. 
+HTML (HyperText Markup Language) is the most basic building block of the Web.
 It describes and defines the content of a webpage. HTML elements are represented by tags.
 
 Written using tags enclosed in angle brackets
@@ -117,7 +117,7 @@ Defined using Classes `.name` and IDs `#name`
 
 Classes: more general, used for a group of elements
 
-IDs: more specific, used for single elements 
+IDs: more specific, used for single elements
 
 `/*comment*/`
 
@@ -170,14 +170,14 @@ The web inspector can help understand the hierarchy that makes up HTML files hel
 
 ### Version Control
 
-![git structure diagram](/img/intro-html-css/git.svg)
+![git structure diagram](/assets/img/intro-html-css/git.svg)
 
 Basically version control is the bomb!
 
 
 ### File Structure
 
-![File Structure](/img/intro-html-css/file-structure.svg)
+![File Structure](/assets/img/intro-html-css/file-structure.svg)
 
 The critical thing with file structure is to stay organzied and be consistent
 

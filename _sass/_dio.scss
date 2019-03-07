@@ -1,6 +1,3 @@
----
----
-
 $color-percentage: 10%;
 
 $dio-gradient: linear-gradient(to left, #00c9ff, #92fe9d);
@@ -359,8 +356,9 @@ figure.highlight{
 
 // Foundation override
 .column:last-child:not(:first-child), .columns:last-child:not(:first-child){
-  float: left;
+  float: left !important;
 }
+
 // End of foundation override
 
 
