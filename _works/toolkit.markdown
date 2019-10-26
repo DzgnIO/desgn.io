@@ -4,6 +4,7 @@ title:  "Toolkit"
 thumbnail: toolkit.png
 date:   2016-01-10
 tag: project toolkit
+permalink: /toolkit
 ---
 
 <div class="body-content">
