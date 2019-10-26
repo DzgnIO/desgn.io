@@ -23,7 +23,7 @@ layout: default
     <div class="small-12 medium-4 columns thumbnail-tile">
       <a class="post-link" href="{{ work.url | prepend: site.baseurl }}">
         <div class="thumbnail-container">
-          <img class="thumbnail-image full-width" src="assets/img/thumbnails/{{ work.thumbnail }}">
+          <img class="thumbnail-image full-width" src="/img/thumbnails/{{ work.thumbnail }}">
           <span class="thumbnail-text">{{ work.title }}</span>
           {% if work.tag == "event" %}
             <span class="banner">Event</span>
@@ -44,8 +44,8 @@ layout: default
       <div class="small-6 medium-3 columns">
         <a class="post-link" href="{{ person.url | prepend: site.baseurl }}">
           <div class="profile-container" id="{{ person.permalink }}">
-            <img class="profile" src="assets/img/{{ person.thumbnail }}">
-            <img class="profile-hover" src="assets/img/{{ person.thumbnail-hover }}">
+            <img class="profile" src="/img/{{ person.thumbnail }}">
+            <img class="profile-hover" src="/img/{{ person.thumbnail-hover }}">
           </div>
         </a>
     </div>

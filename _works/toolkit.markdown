@@ -4,6 +4,7 @@ title:  "Toolkit"
 thumbnail: toolkit.png
 date:   2016-01-10
 tag: project toolkit
+permalink: /toolkit
 ---
 
 <div class="body-content">
@@ -18,7 +19,7 @@ tag: project toolkit
       <div class="small-12 medium-4 columns thumbnail-tile">
         <a class="post-link" href="{{ tool.url | prepend: site.baseurl }}">
           <div class="thumbnail-container">
-            <img class="thumbnail-image full-width" src="/assets/img/toolkit/thumbnails/{{ tool.thumbnail }}">
+            <img class="thumbnail-image full-width" src="/img/toolkit/thumbnails/{{ tool.thumbnail }}">
             <span class="thumbnail-text">{{ tool.title }}</span>
           </div>
         </a>
